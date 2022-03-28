@@ -2,7 +2,7 @@
 
 - I am a civil engineer, currently working as a new business manager, i am studying development for a future career transition.
 
-- I am brazilian, i speak portuguese, spanish and i'm working on my english, sorry for any wrong in my write.
+- I am brazilian, i speak portuguese, spanish and i'm working on my english.
 
 - I have worked in ITs company's or relationed companys for a long part of my life. In IT i worked like teacher of microsoft office, support analyst, customer service and customer success. 
 
