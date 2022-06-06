@@ -2,15 +2,12 @@
 
 - I am a civil engineer, currently working as a new business manager, i am studying development for a future career transition.
 
-- I am brazilian, i speak portuguese, spanish and i'm working on my english.
+- I am brazilian, i speak portuguese, spanish and a little of english.
 
-- I have worked in ITs company's or relationed companys for a long part of my life. In IT i worked like teacher of microsoft office, support analyst, customer service and customer success. 
+- I have some experience and knologed with Java, Python, GitHub, Springboot, CSS3, HTML5, React, React DOM, Node, H2 Database, PostGreSQL, SQL, Banco de Dados Relacional, SpringWeb, JPA, Spring Security, Padrão MVC, API Rest, Heroku, Figma, Netfly e Postman. I hade made some courses with some of this tecnologies and some projecs too.
 
-- My initial contact with development was in Python, i studied Python in youtube in the channel Curso em Vídeo, thanks for the amazing content Gustavo Guanabara. After this, i started my studies in Java with the content of Loiane Groner, another amazing content and anothers contents in youtube. 
-
-- I’m currently learning Java and Springboot, for work with microservices.
-
-- In this moment i'm working in a web system for help me manage my work.
+- In my [Repositorie](https://github.com/luizjhonata?tab=repositories), you can see some of this projects.
+- If you want to make contact with me, please send me a mesage in my Linkedin, in link the link below. 
 
 <div> 
   <a href="https://www.linkedin.com/in/jhonataluiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
