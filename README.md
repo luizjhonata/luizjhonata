@@ -1,6 +1,8 @@
 ### Hello! 👋 It's a pleasure have you here! 😁 
 
-- I am a civil engineer, currently working as a new business manager, i am studying development for a future career transition.
+- I am a software developer with some experience in backend and frontend (fullstack).
+
+- I am a civil engineer, currently working as a new business manager and i am studying development for a future career transition.
 
 - I am brazilian, i speak portuguese, spanish and a little of english.
 
