@@ -9,7 +9,7 @@
 - I have some experience and knologed with Java, Python, GitHub, Springboot, CSS3, HTML5, React, React DOM, Node, H2 Database, PostGreSQL, SQL, Banco de Dados Relacional, SpringWeb, JPA, Spring Security, Padrão MVC, API Rest, Heroku, Figma, Netfly e Postman. I hade made some courses with some of this tecnologies and some projecs too.
 
 - In my [Repositorie](https://github.com/luizjhonata?tab=repositories), you can see some of this projects.
-- If you want to make contact with me, please send me a mesage in my Linkedin, in link the link below. 
+- If you want to make contact with me, please send me a mesage in my [Linkedin](https://www.linkedin.com/in/jhonataluiz/), in link the link below. 
 
 <div> 
   <a href="https://www.linkedin.com/in/jhonataluiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
