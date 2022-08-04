@@ -1,6 +1,6 @@
 ### Hello! 👋 It's a pleasure have you here! 😁 
 
-- I am a back-end developer(Java, Spring Framework), with some experience in frontend, also a i'm a civil engineer.
+- I am a back-end developer(Java, Spring Framework), with some experience in frontend and also i'm a civil engineer.
 
 - I have experience and knologed with Java, Springboot, SpringWeb, Spring Data Jpa, Spring Security, Pattern MVC, API Rest, GitHub, H2 Database, PostGreSQL, SQL, Banco de Dados Relacional, Postman, Swagger, Heroku, Netfly and also some experience in front-end CSS3, HTML5, JavaScript and React.
 
