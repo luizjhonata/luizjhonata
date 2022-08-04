@@ -1,12 +1,8 @@
 ### Hello! 👋 It's a pleasure have you here! 😁 
 
-- I am a software developer with some experience in backend and frontend (fullstack).
+- I am a back-end developer(Java, Spring Framework), with some experience in frontend, also a i'm a civil engineer.
 
-- I am a civil engineer, currently working as a new business manager and i am studying development for a future career transition.
-
-- I am brazilian, i speak portuguese, spanish and a little of english.
-
-- I have some experience and knologed with Java, Python, GitHub, Springboot, CSS3, HTML5, React, React DOM, Node, H2 Database, PostGreSQL, SQL, Banco de Dados Relacional, SpringWeb, JPA, Spring Security, Padrão MVC, API Rest, Heroku, Figma, Netfly e Postman. I hade made some courses with some of this tecnologies and some projecs too.
+- I have experience and knologed with Java, Springboot, SpringWeb, Spring Data Jpa, Spring Security, Pattern MVC, API Rest, GitHub, H2 Database, PostGreSQL, SQL, Banco de Dados Relacional, Postman, Swagger, Heroku, Netfly and also some experience in front-end CSS3, HTML5, JavaScript and React.
 
 - In my [Repositorie](https://github.com/luizjhonata?tab=repositories), you can see some of this projects.
 - If you want to make contact with me, please send me a mesage in my [Linkedin](https://www.linkedin.com/in/jhonataluiz/), in link the link below. 
