@@ -1,6 +1,7 @@
 ### Hello! 👋 It's a pleasure have you here! 😁 
 
 - I'm looking for an opportunity has Jr Software Engineer, in a team that I can help and grow.
+- I speak portuguese(native), spanish and english.
 
 - I'm a software engineer with experience in Java, Spring Framework, React, Type/JavaScritp, HTML, CSS, Pattern MVC, API Rest, Github, H2, PostGreSQL, SQL, Relational Databases, Postman, Swagger, Heroku, Netfly, i probably have forgot some thing, but i.
 - I have experience in working in a team and solve problem.
