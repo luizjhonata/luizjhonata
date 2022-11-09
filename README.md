@@ -1,4 +1,4 @@
-### Hello! 👋 It's a pleasure have you here! 😁 
+## Hello! 👋 It's a pleasure have you here! 😁 
 
 - I'm looking for an opportunity has Jr Software Engineer, in a team that I can help and grow.
 - I speak portuguese(native), spanish and english.
